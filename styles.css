@@ -100,3 +100,25 @@ a {
     color: grey;
     text-align: center;
 }
+#tick{
+    margin: 1% ;
+    margin-right: 3%;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    padding: 0;
+}
+h6 {
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    padding: 0%;
+    margin: 2%;
+}
+body{
+    margin: 0%;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

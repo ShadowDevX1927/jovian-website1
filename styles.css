@@ -120,5 +120,6 @@ body{
     height: 600px;
     align-items: center;
     display: flex;
+    display: block;
     justify-content: center;
 }
